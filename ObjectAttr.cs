@@ -39,11 +39,21 @@ public class ObjectAttr : MonoBehaviour
         item.scale = this.transform.localScale;
         item.rotation = this.transform.localRotation;
         
-        if(1==1){
-        int i=1;
-        }else{
-        int i=1;
+        if(this.name=="tmptmp"){
+        
         }
+
+        if(true){
+            if(true){
+                if(1==1){
+                int i=1;
+                }else{
+                int i=1;
+                }            
+            }
+        }
+        
+
     }
 
 
