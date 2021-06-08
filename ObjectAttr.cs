@@ -52,8 +52,24 @@ public class ObjectAttr : MonoBehaviour
                 }            
             }
         }
-        
-
+         if(true){
+            if(true){
+                if(1==1){
+                int i=1;
+                }else{
+                int i=1;
+                }            
+            }
+        }
+        if(true){
+            if(true){
+                if(1==1){
+                int i=1;
+                }else{
+                int i=1;
+                }            
+            }
+        }
     }
 
 
