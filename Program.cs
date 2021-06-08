@@ -2,6 +2,7 @@
 
 namespace TestRepo
 {
+//Bad code for static analysis tests
     class Program
     {
         static void Main(string[] args)
